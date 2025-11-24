@@ -1,0 +1,6 @@
+sonar.projectKey=akshitha-jpg_calc
+sonar.organization=akshitha-jpg
+
+sonar.projectKey=your-project-key
+sonar.organization=your-org-key
+sonar.sources=.
