@@ -40,8 +40,8 @@ jobs:
         uses: SonarSource/sonarqube-scan-action@v6
         with:
           args: >
-            -Dsonar.projectKey=navyavelicheti10_PythonScript
-            -Dsonar.organization=navyavelicheti10
+            -Dsonar.projectKey=akshitha-jpg_calc_PythonScript
+            -Dsonar.organization=akshitha-jpg_calc
             -Dsonar.sources=src
             -Dsonar.python.coverage.reportPaths=coverage.xml
         env:
